@@ -48,7 +48,7 @@ class UserModel {
 }
 
 final userModelMockData = UserModel(
-    id: '01010101',
+    id: '0101010',
     name: 'Nam Nguyen',
     avatarPath: 'assets/images/images/avatar.png',
     email: 'hoainam@gmail.com',
